@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">template</string>
     <string name="welcome">Welcome to DAA!</string>
+    <string name="image_description">Image de la galerie</string>
+
 </resources>
